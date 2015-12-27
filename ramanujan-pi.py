@@ -3,7 +3,7 @@
 import math
 
 def factorial(n):
-	# Computers the factorial of n
+	# Computerps the factorial of n
 	if n == 0:
 		return 1
 	else:

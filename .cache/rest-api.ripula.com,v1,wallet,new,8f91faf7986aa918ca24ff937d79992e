@@ -1,0 +1,20 @@
+status: 200
+etag: W/"8b-64c46552"
+access-control-allow-origin: *
+content-type: application/json; charset=utf-8
+date: Tue, 22 Dec 2015 22:06:17 GMT
+content-location: http://rest-api.ripula.com/v1/wallet/new
+access-control-allow-methods: GET,PUT,POST,DELETE
+access-control-allow-headers: X-Requested-With, Content-Type
+connection: keep-alive
+vary: Accept-Encoding
+content-length: 139
+-varied-accept-encoding: gzip, deflate
+
+{
+  "wallet": {
+    "address": "rGgmv5MfHJ4uwcUnp1U9vMWY2DszTdmp2N",
+    "secret": "shPbPXHf7MWoxx3DKqyUBXm5C7DFj"
+  },
+  "success": true
+}
